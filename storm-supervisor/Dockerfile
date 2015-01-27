@@ -1,5 +1,4 @@
-FROM wurstmeister/storm:0.9.3
-MAINTAINER Wurstmeister
+FROM storm
 
 EXPOSE 6700
 EXPOSE 6701
